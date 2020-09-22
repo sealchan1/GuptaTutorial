@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "normal":
+        {
+            "model": "mymods:ender_block"
+        }
+    }
+}

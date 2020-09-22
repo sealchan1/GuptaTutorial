@@ -1,0 +1,48 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    
+    "ingredients":
+    [
+        {
+            "item": "mymods:ender_ingot"
+        },
+        
+        {
+            "item": "mymods:ender_ingot"
+        },
+        
+        {
+            "item": "mymods:ender_ingot"
+        },
+        
+        {
+            "item": "mymods:ender_ingot"
+        }, 
+        
+        {
+            "item": "mymods:ender_ingot"
+        },
+        
+        {
+            "item": "mymods:ender_ingot"
+        },
+        
+        {
+            "item": "mymods:ender_ingot"
+        },
+        
+        {
+            "item": "mymods:ender_ingot"
+        },
+        
+        {
+            "item": "mymods:ender_ingot"
+        }
+    ],
+    
+    "result":
+    {
+        "item": "mymods:ender_block",
+        "count": 1
+    }
+}     

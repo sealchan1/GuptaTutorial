@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "mymods:ender_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mymods:ender_block",
+        "count": 1
+    }
+}

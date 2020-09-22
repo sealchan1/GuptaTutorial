@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    
+    "ingredients":
+    [
+        {
+            "item": "mymods:ender_block"
+        },
+        
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        {
+            "item": "minecraft:gold_ingot"
+        }
+    ],
+    
+    "result":
+    {
+        "item": "mymods:ender_ingot",
+        "count": 12
+    }
+}
